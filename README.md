@@ -1,0 +1,2 @@
+# abstractMethodViaInheritance
+Animals etc
